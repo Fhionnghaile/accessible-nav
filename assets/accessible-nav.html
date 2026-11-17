@@ -1,0 +1,20 @@
+<div id="an-skip"></div>
+<button id="an-btn" type="button" aria-haspopup="dialog" aria-expanded="false" aria-label="Accessibility and navigation menu"><span class="ico" aria-hidden="true">&#9855;</span><span>Access</span></button>
+<div id="an-panel" role="dialog" aria-label="Accessibility and navigation" aria-modal="false">
+  <h2>Access &amp; navigation</h2>
+  <div class="an-row"><span>Text size</span><div class="an-seg" role="group" aria-label="Text size"><button type="button" data-ts="normal" aria-pressed="true">A</button><button type="button" data-ts="large" aria-pressed="false">A+</button><button type="button" data-ts="xlarge" aria-pressed="false">A++</button></div></div>
+  <div class="an-row"><span>Boost contrast</span><button type="button" class="an-tgl" data-tgl="contrast" aria-pressed="false">Off</button></div>
+  <div class="an-row"><span>Reduce motion</span><button type="button" class="an-tgl" data-tgl="motion" aria-pressed="false">Off</button></div>
+  <div class="an-row"><span>Readable font</span><button type="button" class="an-tgl" data-tgl="font" aria-pressed="false">Off</button></div>
+  <div class="an-row"><span>Underline links</span><button type="button" class="an-tgl" data-tgl="links" aria-pressed="false">Off</button></div>
+  <button id="an-go" type="button">Search &amp; go&hellip; <span aria-hidden="true">(&#8984;K)</span></button>
+  <button id="an-reset" type="button">Reset all settings</button>
+</div>
+<div id="an-cmdk" role="dialog" aria-modal="true" aria-label="Navigate the site">
+  <div class="box">
+    <input type="text" id="an-cmdk-in" placeholder="Search pages &amp; actions&hellip;" aria-label="Search pages and actions" role="combobox" aria-expanded="true" aria-controls="an-cmdk-list" aria-autocomplete="list" autocomplete="off">
+    <ul id="an-cmdk-list" role="listbox" aria-label="Results"></ul>
+    <div class="hint"><span><b>&#8593;&#8595;</b> move</span><span><b>&#8629;</b> open</span><span><b>esc</b> close</span></div>
+  </div>
+</div>
+<div id="an-live" class="an-sr" aria-live="polite"></div>
