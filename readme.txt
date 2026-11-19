@@ -1,5 +1,5 @@
 === Accessible Nav ===
-Contributors: yourname
+Contributors: fhionnghaile
 Tags: accessibility, a11y, navigation, command palette, wcag
 Requires at least: 6.2
 Tested up to: 6.6

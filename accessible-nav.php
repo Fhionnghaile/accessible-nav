@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Accessible Nav
- * Plugin URI:        https://example.com/plugins/accessible-nav
+ * Plugin URI:        https://github.com/fhionnghaile/accessible-nav
  * Description:       A self-contained accessibility layer (text size, contrast, reduce-motion, readable font, underline links) plus a keyboard/touch command-palette for fast navigation. Additive and reversible — no theme edits required.
  * Version:           1.0.0
  * Requires at least: 6.2
