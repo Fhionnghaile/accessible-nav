@@ -11,6 +11,9 @@ A WordPress plugin that gives every visitor text-size, contrast, reduced-motion,
 ## 3. Demo
 Install on a test site and press Ctrl-K. Capture to record: the toolbar and the palette in use.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** WordPress 6.2+, PHP 7.4+.
 
