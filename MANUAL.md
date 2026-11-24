@@ -1,5 +1,7 @@
 # Accessible Nav (WordPress plugin) — manual
 
+[![CI](https://github.com/Fhionnghaile/accessible-nav/actions/workflows/ci.yml/badge.svg)](https://github.com/Fhionnghaile/accessible-nav/actions/workflows/ci.yml) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/accessible-nav/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/accessible-nav)
+
 *One page, eight blocks. Every figure here comes from this repository's own tests and README.*
 
 ## 1. Claim
